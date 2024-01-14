@@ -1,1 +1,1 @@
-# Christos
+# Example of README
